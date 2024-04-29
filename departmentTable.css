@@ -1,0 +1,26 @@
+.DataTable {
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+  }
+  
+  .DataTable .ant-table {
+    background-color: #f0f2f5;
+  }
+  
+  .DataTable .ant-table-thead > tr > th {
+    background-color: #1890ff;
+    border: 1px solid #1d1b1b;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  .DataTable .ant-table-tbody > tr > td {
+    background-color: #fff;
+    color: #000;
+    text-align: center;
+    border: 1px solid #1d1b1b;
+  }
+  .DataTable .ant-table-tbody > tr > td{
+    cursor: pointer;
+  }

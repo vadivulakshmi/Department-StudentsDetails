@@ -1,0 +1,45 @@
+.Table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+  }
+  .Table .ant-table {
+    background-color: #f0f2f5;
+  }
+  
+  .Table .ant-table-thead > tr > th {
+    background-color: #1890ff;
+    border: 1px solid #1d1b1b;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  .Table .ant-table-tbody > tr > td {
+    background-color: #fff;
+    color: #000;
+    text-align: center;
+    border: 1px solid #1d1b1b;
+  }
+
+  .h2{
+    text-align: center;
+  }
+
+.SearchInput {  
+  width: 200px; 
+  padding: 8px 8px; 
+  border: 1px solid  #007bff;
+  border-radius: 6px;
+  background-color: white;
+  text-align: center;
+  margin-left: 350px;
+}
+
+.btn{
+border: -3px;
+cursor: pointer;
+margin-left: 84%;
+padding: 5px;
+margin-bottom: 10px;
+}
